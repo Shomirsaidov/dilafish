@@ -39,7 +39,8 @@
       </div>
   
       <h1 class="text-lg font-semibold p-4 mb-16 text-red-500">
-        Подвердите свою личность, чтобы увидеть содержимое ! 
+        Контент предусмотрен только для<br/> <span class="text-blue-800">@onidumali, @poshos.style<span/><br/>
+        Подтвердите свою личность, чтобы увидеть содержимое ! 
       </h1>
   
       <img src="../assets/meta.svg" width="53" alt="">
