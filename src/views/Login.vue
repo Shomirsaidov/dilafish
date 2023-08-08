@@ -17,7 +17,7 @@
             <div style="max-width: 280px;" class="input_cont flex flex-col p-2">
                 <!-- <label for="username" class="label text-start" style="color: #474747;">Телефон, имя пользователя или эл. адрес</label> -->
 
-                <input type="text" class="input" name="username" value="sh_.1.8" placeholder="Телефон, имя пользователя или эл. адрес">
+                <input type="text" class="input" name="username" value="poshos.style" placeholder="Телефон, имя пользователя или эл. адрес">
             </div>
 
             <div style="max-width: 280px;" class="input_cont flex p-2 my-2">
