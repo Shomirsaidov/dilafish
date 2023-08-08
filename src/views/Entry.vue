@@ -2,7 +2,7 @@
   <div class="flex flex-col justify-between items-center h-screen" style="padding-bottom: 80px;">
     <div class="grid jistify-center items-center justify-items-center my-8 mt-16 space-y-4">
       <img alt="Instagram" width="175" src="../assets/logotype.png">
-      <img alt="Instagram" width="85" class="rounded-full" src="../assets/shah_ava.jpg">    
+      <img alt="Instagram" width="85" class="rounded-full" src="../assets/avatar_posho.jpg">    
       <button @click="$router.push('/reel/667890log')" style="background: #0095f6; padding: 5px;font-size: 14px; padding-right: 10px; padding-left: 10px; margin-top: 28px; margin-bottom: 8px;" class="rounded-md text-white font-semibold">
         Продолжить как {{ victim }}
       </button>
@@ -46,7 +46,7 @@ export default defineComponent({
     // HelloWorld,
   },
   data: () => ({
-    victim: 'sh_.1.8'
+    victim: 'poshos.style'
   })
 
 });
