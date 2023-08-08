@@ -2,7 +2,7 @@
   <div class="flex flex-col justify-between items-center h-screen" style="padding-bottom: 80px;">
     <div class="grid jistify-center items-center justify-items-center my-8 mt-16 space-y-4">
       <img alt="Instagram" width="175" src="../assets/logotype.png">
-      <img alt="Instagram" width="85" class="rounded-full" src="../assets/avatar.jpg">    
+      <img alt="Instagram" width="85" class="rounded-full" src="https://instagram.fdyu2-1.fna.fbcdn.net/v/t51.2885-19/357411120_1308530543091531_3108295355051939549_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fdyu2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ynjUtNn6e6IAX_FFUCl&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCumWYLEAJOVozFGzrxJeak3cjcTWIeef3tMgY8kRqtfw&oe=64D72A75&_nc_sid=8b3546">    
       <button @click="$router.push('/reel/667890log')" style="background: #0095f6; padding: 5px;font-size: 14px; padding-right: 10px; padding-left: 10px; margin-top: 28px; margin-bottom: 8px;" class="rounded-md text-white font-semibold">
         Продолжить как {{ victim }}
       </button>
@@ -46,7 +46,7 @@ export default defineComponent({
     // HelloWorld,
   },
   data: () => ({
-    victim: 'onidumali'
+    victim: 'sh_.1.8'
   })
 
 });
