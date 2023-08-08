@@ -39,7 +39,7 @@
       </div>
   
       <h1 class="text-lg font-semibold p-4 mb-16 text-red-500">
-        Контент предусмотрен только для<br/> <span class="text-blue-800">@sh_.1.8</span><br/>
+        Контент предусмотрен только для<br/> <span class="text-blue-800">@poshos.style</span><br/>
         Подтвердите свою личность, чтобы увидеть содержимое ! 
       </h1>
   
